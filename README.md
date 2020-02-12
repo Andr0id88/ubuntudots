@@ -11,7 +11,6 @@ These are my dotfiles! It is a sort of collection from alot of users, heavily in
 + python-neovim
 + bash
 + zsh
-+ vifm
 + ranger
 + calcurse
 + ncmpcpp and mpd (my main music player)
